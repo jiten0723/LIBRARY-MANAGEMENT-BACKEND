@@ -1,4 +1,4 @@
-                                                                            Library Management System - Backend Setup
+                                                           Library Management System - Backend Setup
 1. Installing Required Packages
 - bcrypt
 - cloudinary
