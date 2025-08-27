@@ -85,5 +85,5 @@ config file.
 1. Create a services folder and add:
 2. - notifyUsers.js (Automatically sends email reminders for due books).
 3. - removeUnverifiedAccounts.js (Deletes unverified accounts automatically).
-   - 
+     
 ✅ Backend Setup Complete! �
